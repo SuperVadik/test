@@ -1,0 +1,6 @@
+D:\Git\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Git\Calc\Calc\bin\Debug\Calc.exe
+D:\Git\Calc\Calc\bin\Debug\Calc.pdb
+D:\Git\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\Git\Calc\Calc\obj\Debug\Calc.exe
+D:\Git\Calc\Calc\obj\Debug\Calc.pdb
